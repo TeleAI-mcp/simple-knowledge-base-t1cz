@@ -1,2 +1,3 @@
-# simple-knowledge-base-t1cz
-A knowledge management system for modern development workflows
+# Simple Knowledge Base T1Cz
+
+A knowledge management system for modern development workflows.
